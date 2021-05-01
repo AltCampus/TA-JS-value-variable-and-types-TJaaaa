@@ -26,7 +26,7 @@
 // 6. Write a program that takes the number of the month(1 - 12) and alert number of days in the month.
 
 /* 7.
-- Write a program that take the salery of the user using prompt and alert the in -hand amount.You will find out the in -hand amount by deducting the tax amoun from salery.Conditions are given below.
+- Write a program that take the salary of the user using prompt and alert the in-hand amount.You will find out the in-hand amount by deducting the tax amount from salary. Conditions are given below.
   - `Salary <= 20000` tax is 10 %
   - `Salary <= 40000` tax is 20 %
   - `Salary > 50000` tax is 30 %
@@ -49,9 +49,9 @@ Implement the condition give below using`if..else` and`switch` statement.
 /* 9. Weather app
 
   - Ask user to provide the condition of the weather outside by asking `What is the weather like outside?`
-  - If user says`sunny` alert`Wear a T-shirt`
-  - If`rainy` alert`Don't forget to take your raincoat`
-  - If`hot` alert`Get a hanky`
-  - If`freezing` alert`Get your sweeter on`
+  - If user says`sunny` alert `Wear a T-shirt`
+  - If `rainy` alert `Don't forget to take your raincoat`
+  - If `hot` alert `Get a hanky`
+  - If `freezing` alert `Get your sweeter on`
   - Anything else should alert`Not a valid input`
 */
