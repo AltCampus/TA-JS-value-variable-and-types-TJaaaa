@@ -22,7 +22,7 @@ for (let j = 0; j <= 10; ____) console.log(j);
 
 // 6. Concat all the even numbers from 10 to 0 (both inclusive) in descending order using a while loop. (1086420)
 
-// Comparisoin
+// Comparsion
 
 /* 7. Take two value using prompt and store them in variables `num1` and `num2`. Check whether they are equal or not.
 
